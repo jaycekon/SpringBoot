@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.dubbo.springboot:spring-boot-starter-dubbo">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/dubbo/springboot/spring-boot-starter-dubbo/spring-boot-starter-dubbo-.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/dubbo/springboot/spring-boot-starter-dubbo/spring-boot-starter-dubbo--javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/dubbo/springboot/spring-boot-starter-dubbo/spring-boot-starter-dubbo--sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
