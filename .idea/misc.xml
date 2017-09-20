@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/spring-boot-cloud/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-web/pom.xml" />
       </list>
     </option>
   </component>

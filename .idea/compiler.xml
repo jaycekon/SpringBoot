@@ -9,6 +9,7 @@
         <module name="spring-boot-cloud" />
         <module name="spring-boot-consumer" />
         <module name="spring-boot-dubbo" />
+        <module name="spring-boot-web" />
         <module name="SpringBoot" />
         <module name="Springboot" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="spring-boot-cloud" target="1.8" />
       <module name="spring-boot-consumer" target="1.8" />
       <module name="spring-boot-dubbo" target="1.8" />
+      <module name="spring-boot-web" target="1.8" />
       <module name="SpringBoot" target="1.5" />
       <module name="Springboot" target="1.5" />
     </bytecodeTargetLevel>

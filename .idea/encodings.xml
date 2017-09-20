@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/spring-boot-cloud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web" charset="UTF-8" />
   </component>
 </project>
