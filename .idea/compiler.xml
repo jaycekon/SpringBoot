@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-cloud" />
+        <module name="spring-boot-cloud-consumer" />
+        <module name="spring-boot-cloud-provider" />
         <module name="spring-boot-consumer" />
         <module name="spring-boot-dubbo" />
         <module name="spring-boot-web" />
@@ -16,6 +18,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-cloud" target="1.8" />
+      <module name="spring-boot-cloud-consumer" target="1.8" />
+      <module name="spring-boot-cloud-provider" target="1.8" />
+      <module name="spring-boot-cloud-providers" target="1.8" />
       <module name="spring-boot-consumer" target="1.8" />
       <module name="spring-boot-dubbo" target="1.8" />
       <module name="spring-boot-web" target="1.8" />
