@@ -14,10 +14,9 @@ public class DcController {
     @Autowired
     private DiscoveryClient discoveryClient;
 
-    @RequestMapping("/dc")
-    public String dc(){
-        String services = "Services: " + discoveryClient.getServices();
-        System.out.println(services);
-        return services;
+    @RequestMapping("/product")
+    public String product(String name) {
+        return "Services: " + discoveryClient.getServices() + "name :" + name;
     }
+
 }
