@@ -10,7 +10,7 @@
     <modules>
         <module>spring-boot-dubbo</module>
         <module>spring-boot-consumer</module>
-        <module>spring-boot-cloud</module>
+        <module>spring-boot-web</module>
     </modules>
 
 </project>
