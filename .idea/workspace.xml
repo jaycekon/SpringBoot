@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="622b5fe6-e157-4ac4-b620-6608443c576c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275d783e298228506068436512433d343feb52aa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4654b6a957a05b82a019dcba315e0018e82acba3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ee004e9dc17ca6a570a21f3beeac054c537ff51" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9ddaaa0255cbe84ed8ac7cbd672d1f5b708f728c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba9fd5a03a41779090423bdbd7e16015569d37b3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb083ecbed0cef750566db94a29cd97d553d2945" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5074b4f2fb415d637ca14e925ac9e3948a97efa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d07cb896a7a81ac8556fe0f6203d4a9fbe1baeac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/SpringBootMybatisApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/SpringBootMybatisApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-boot-web/1.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot-mybatis/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-boot-mybatis/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -94,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/mapper/UserMapperTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -749,6 +733,11 @@
               <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1072,7 +1061,7 @@
       <workItem from="1510051177379" duration="4289000" />
       <workItem from="1516169715554" duration="11000" />
       <workItem from="1516258372107" duration="162000" />
-      <workItem from="1516326724958" duration="1167000" />
+      <workItem from="1516326724958" duration="1200000" />
     </task>
     <task id="LOCAL-00001" summary="整合代码">
       <created>1505912048300</created>
@@ -1123,7 +1112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516327970715</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=":zap:加入Spring-Boot-Mybatis 模块">
+      <created>1516328041163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1516328041163</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1147,7 +1143,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28474000" />
+    <option name="totallyTimeSpent" value="28507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1573,7 +1569,7 @@
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/mapper/UserMapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1583,7 +1579,7 @@
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
