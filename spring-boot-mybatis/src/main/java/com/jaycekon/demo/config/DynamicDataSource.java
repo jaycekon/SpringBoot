@@ -11,7 +11,6 @@ import java.util.Map;
 /**
  * 使用DatabaseContextHolder获取当前线程的DatabaseType
  *
- * @author <a href="mailto:weijie_huang@sui.com"> weijie_huang </a>
  * 2018/1/15 18:56
  */
 public class DynamicDataSource extends AbstractRoutingDataSource {

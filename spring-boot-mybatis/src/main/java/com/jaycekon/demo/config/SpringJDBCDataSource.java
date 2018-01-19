@@ -7,7 +7,6 @@ import javax.sql.DataSource;
 /**
  * 通过DataSourceBuilder.create() 快速创建DataSource
  *
- * @author <a href="mailto:weijie_huang@sui.com"> weijie_huang </a>
  * 2018/1/19 14:15
  */
 //@Configuration

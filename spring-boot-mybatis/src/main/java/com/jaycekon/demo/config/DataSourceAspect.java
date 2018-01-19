@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 动态处理数据源，根据命名区分
  *
- * @author <a href="mailto:weijie_huang@sui.com"> weijie_huang </a>
  * 2018/1/17 10:18
  */
 @Aspect

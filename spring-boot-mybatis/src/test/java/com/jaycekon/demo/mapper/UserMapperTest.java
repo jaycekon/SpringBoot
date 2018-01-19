@@ -12,7 +12,6 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Mybatis 测试工具类
  *
- * @author <a href="mailto:weijie_huang@sui.com"> weijie_huang </a>
  * 2018/1/19 10:03
  */
 @RunWith(SpringRunner.class)

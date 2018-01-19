@@ -25,7 +25,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author <a href="mailto:weijie_huang@sui.com"> weijie_huang </a>
  * 2018/1/15 18:46
  */
 @Configuration

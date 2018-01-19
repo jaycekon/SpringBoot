@@ -7,7 +7,6 @@ import org.apache.ibatis.annotations.Select;
 import org.springframework.beans.factory.annotation.Qualifier;
 
 /**
- * @author <a href="mailto:weijie_huang@sui.com"> weijie_huang </a>
  * 2018/1/9 16:58
  */
 @Mapper
