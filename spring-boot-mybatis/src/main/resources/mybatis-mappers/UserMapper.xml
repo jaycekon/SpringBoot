@@ -1,0 +1,25 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jaycekon.demo.mapper.UserMapper">
+    <resultMap id="User" type="User">
+        <result column="username" jdbcType="VARCHAR" property="username"/>
+        <result column="id_card" jdbcType="VARCHAR" property="idCard"/>
+        <result column="phone" jdbcType="VARCHAR" property="phone"/>
+        <result column="password" jdbcType="VARCHAR" property="password"/>
+    </resultMap>
+
+    <sql id="columns">
+       username,id_card,phone,password
+    </sql>
+
+    <select id="selectByIdCard" parameterType="java.lang.String"
+            resultMap="User">
+        select id,
+        <include refid="columns"/>
+        from user
+        where id_card = #{idCard,jdbcType=VARCHAR}
+
+    </select>
+
+</mapper>

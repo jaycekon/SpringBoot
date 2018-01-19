@@ -23,6 +23,8 @@
       <module name="spring-boot-cloud-providers" target="1.8" />
       <module name="spring-boot-consumer" target="1.8" />
       <module name="spring-boot-dubbo" target="1.8" />
+      <module name="spring-boot-mybatis_main" target="1.8" />
+      <module name="spring-boot-mybatis_test" target="1.8" />
       <module name="spring-boot-web" target="1.8" />
       <module name="SpringBoot" target="1.5" />
       <module name="Springboot" target="1.5" />

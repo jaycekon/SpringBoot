@@ -3,7 +3,6 @@ package com.jaycekon.demo.controller;
 import com.jaycekon.demo.dao.ReadRepository;
 import com.jaycekon.demo.domain.Book;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,7 +13,7 @@ import java.util.List;
 /**
  * Created by weijie_huang on 2017/9/20.
  */
-@Controller
+//@Controller
 public class ReadController {
     @Autowired
     private ReadRepository readRepository;

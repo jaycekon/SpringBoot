@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-cloud-provider/spring-boot-cloud-provider.iml" filepath="$PROJECT_DIR$/spring-boot-cloud-provider/spring-boot-cloud-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-consumer/spring-boot-consumer.iml" filepath="$PROJECT_DIR$/spring-boot-consumer/spring-boot-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_main.iml" group="spring-boot-mybatis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_test.iml" group="spring-boot-mybatis" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" filepath="$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" />
     </modules>
   </component>

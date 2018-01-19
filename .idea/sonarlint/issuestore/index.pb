@@ -17,3 +17,17 @@ I
 spring-boot-dubbo/pom.xml,a/2/a2d21fd147f64c3f79b21b361bdf8d5ade0cc226
 9
 	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+‚
+Rspring-boot-cloud\src\main\java\com\jaycekon\cloud\SpringBootCloudApplication.java,b\a\ba9fd5a03a41779090423bdbd7e16015569d37b3
+“
+cspring-boot-cloud-consumer\src\main\java\com\jaycekon\cloud\SpringBootCloudConsumerApplication.java,4\6\4654b6a957a05b82a019dcba315e0018e82acba3
+G
+spring-boot-web\pom.xml,b\b\bb083ecbed0cef750566db94a29cd97d553d2945
+w
+Gspring-boot-web\src\main\java\com\jaycekon\demo\dao\ReadRepository.java,c\5\c5074b4f2fb415d637ca14e925ac9e3948a97efa
+}
+Mspring-boot-web\src\main\java\com\jaycekon\demo\SpringBootWebApplication.java,5\e\5ee004e9dc17ca6a570a21f3beeac054c537ff51
+“
+cspring-boot-cloud-provider\src\main\java\com\jaycekon\cloud\SpringBootCloudProviderApplication.java,9\d\9ddaaa0255cbe84ed8ac7cbd672d1f5b708f728c
+~
+Nspring-boot-web\src\main\java\com\jaycekon\demo\controller\ReadController.java,d\0\d07cb896a7a81ac8556fe0f6203d4a9fbe1baeac
