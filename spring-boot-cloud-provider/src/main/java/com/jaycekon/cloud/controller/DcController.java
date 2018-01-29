@@ -1,8 +1,8 @@
 package com.jaycekon.cloud.controller;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.client.discovery.DiscoveryClient;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
@@ -11,12 +11,15 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class DcController {
-    @Autowired
-    private DiscoveryClient discoveryClient;
+
+
+
+    @Value("${server.port}")
+    String port;
 
     @RequestMapping("/product")
-    public String product(String name) {
-        return "Services: " + discoveryClient.getServices() + "name :" + name;
+    public String product(@RequestParam String name) {
+        return "hi "+name+",i am from port:" +port;
     }
 
 }
