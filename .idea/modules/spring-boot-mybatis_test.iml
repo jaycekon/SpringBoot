@@ -10,7 +10,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../spring-boot-mybatis/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../spring-boot-mybatis/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../spring-boot-mybatis/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
