@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="622b5fe6-e157-4ac4-b620-6608443c576c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_44.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_cvte_psd_conf_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_cvte_psd_spring_cloud_cvte_conf_client_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-apollo/src/main/resources/META_INF/app.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-apollo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-apollo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-apollo/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,38 +69,38 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-apollo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="49" column="27" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="27" />
+            <state relative-caret-position="968">
+              <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataSourceAspect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DataSourceAspect.java">
+      <file leaf-file-name="SpringBootMybatisApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/SpringBootMybatisApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="105">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootApolloApplication.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-end-line="15" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#29#270#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractRoutingDataSource.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.2.RELEASE/791175a228ad202bb8862203c1a9296dca0a93dd/spring-jdbc-5.0.2.RELEASE-sources.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.java">
+      <file leaf-file-name="app.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/resources/META_INF/app.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="201" selection-start-line="201" selection-end-line="201" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DataSourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="109" selection-start-line="109" selection-end-line="109" />
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -108,53 +108,47 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="50" selection-start-column="50" selection-end-column="63" />
+            <state relative-caret-position="441">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/model/User.java">
+      <file leaf-file-name="AuthorDao.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/dao/AuthorDao.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="105">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis-mappers/UserMapper.xml">
+      <file leaf-file-name="AuthorDaoImpl.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/dao/AuthorDaoImpl.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="609">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="e#33#293#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserMapperTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/mapper/UserMapperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="24" column="61" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="37" column="76" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringBootMybatisApplicationTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/SpringBootMybatisApplicationTests.java">
+      <file leaf-file-name="AuthorService.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/service/AuthorService.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="15" />
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Author.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/entity/Author.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -190,6 +184,7 @@
       <find>druid</find>
       <find>dr</find>
       <find>mysql</find>
+      <find>nex</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -490,7 +485,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-consumer/src/main/java/com/jaycekon/dubbo/controller/UserController.java" />
         <option value="$PROJECT_DIR$/spring-boot-consumer/src/main/java/com/jaycekon/dubbo/service/UserService.java" />
         <option value="$PROJECT_DIR$/spring-boot-consumer/src/main/java/com/jaycekon/dubbo/service/CityDubboConsumerService.java" />
         <option value="$PROJECT_DIR$/spring-boot-dubbo/src/main/java/com/jaycekon/dubbo/service/impl/UserServiceImpl.java" />
@@ -529,7 +523,6 @@
         <option value="$PROJECT_DIR$/spring-boot-cloud-consumer/src/main/java/com/jaycekon/cloud/controller/DcController.java" />
         <option value="$PROJECT_DIR$/spring-boot-cloud-provider/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/controller/DemoController.kt" />
-        <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/config/BeanConfig.kt" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/entity/Author.kt" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/service/AuthorService.kt" />
@@ -537,10 +530,12 @@
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/dao/AuthorDaoImpl.kt" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/service/AuthorServiceImpl.kt" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/controller/AuthorController.kt" />
-        <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-apollo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/build.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/resources/META_INF/app.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-apollo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt" />
       </list>
     </option>
   </component>
@@ -571,6 +566,11 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="spring-boot-apollo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-apollo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -693,6 +693,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-apollo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META_INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
@@ -1104,7 +1113,7 @@
       <workItem from="1517208158767" duration="1314000" />
       <workItem from="1531534368788" duration="1300000" />
       <workItem from="1531536981673" duration="2229000" />
-      <workItem from="1531708540786" duration="2821000" />
+      <workItem from="1531708540786" duration="6471000" />
     </task>
     <task id="LOCAL-00001" summary="整合代码">
       <created>1505912048300</created>
@@ -1204,13 +1213,24 @@
       <option name="project" value="LOCAL" />
       <updated>1531710573194</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="修改maven mysql版本依赖">
+      <created>1531711568296</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1531711568296</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":zap: fix Spring config">
+      <created>1531711699563</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1531711699563</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserMapperTest_testSelect - 2018.01.19 at 15h 30m 33s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserMapperTest_testSelect - 2018.01.19 at 15h 32m 47s.xml">
       <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
     </history-entry>
@@ -1238,18 +1258,21 @@
     <history-entry file="UserMapperTest - 2018.07.16 at 11h 20m 58s.xml">
       <configuration name="UserMapperTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserMapperTest - 2018.07.16 at 11h 23m 38s.xml">
+      <configuration name="UserMapperTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43194000" />
+    <option name="totallyTimeSpent" value="46844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="115" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50572246" side_tool="true" weight="0.39900497" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50319487" side_tool="true" weight="0.32969216" />
       <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3290735" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.3290735" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="8" />
       <window_info id="Capture Tool" order="2" />
@@ -1259,30 +1282,30 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49427754" visible="true" weight="0.5878848" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49427754" weight="0.5878848" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32770607" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" content_ui="combo" id="Run Dashboard" order="8" weight="0.44875622" />
+      <window_info anchor="bottom" content_ui="combo" id="Run Dashboard" order="8" weight="0.44786495" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32889965" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.32861805" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3297062" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297062" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24707136" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4968051" weight="0.32969216" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24707136" />
       <window_info anchor="bottom" id="Problems" order="9" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32861805" />
       <window_info anchor="right" id="Gradle" order="5" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32861805" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1303,7 +1326,9 @@
     <MESSAGE value=":zap:更新mybatis 示例代码" />
     <MESSAGE value=":zap:信息脱敏" />
     <MESSAGE value=":fire: spring-boot 给予Kotlin 整合Apollo" />
-    <option name="LAST_COMMIT_MESSAGE" value=":fire: spring-boot 给予Kotlin 整合Apollo" />
+    <MESSAGE value="修改maven mysql版本依赖" />
+    <MESSAGE value=":zap: fix Spring config" />
+    <option name="LAST_COMMIT_MESSAGE" value=":zap: fix Spring config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1330,17 +1355,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/SpringBootWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.0.M7/6527d0d56f95c1747e42180f63f49bde988efb41/spring-boot-2.0.0.M7-sources.jar!/org/springframework/boot/context/properties/bind/Bindable.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.0.M7/6527d0d56f95c1747e42180f63f49bde988efb41/spring-boot-2.0.0.M7-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.0.2.RELEASE/b5813fc5315d56660d938fe5219f9e2f83b7ca34/spring-beans-5.0.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.0.M7/2fcb12c37f221a4e71e735024be1a71562a8e653/spring-boot-autoconfigure-2.0.0.M7-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.java" />
@@ -1395,13 +1409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/SpringBootMybatisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1481,51 +1488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="e#29#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/controller/DemoController.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/entity/Author.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/service/AuthorService.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/dao/AuthorDao.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/dao/AuthorDaoImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="e#33#293#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1546,13 +1512,6 @@
           <folding>
             <element signature="e#40#357#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="63" selection-start-column="63" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -1625,20 +1584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" selection-start-column="50" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="49" column="27" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1649,14 +1594,100 @@
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis-mappers/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="14" />
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/mapper/UserMapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="24" column="61" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="61" />
+        <state relative-caret-position="378">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/service/AuthorService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/entity/Author.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/dao/AuthorDao.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/dao/AuthorDaoImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#33#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/resources/META_INF/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-web/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/SpringBootMybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.2.RELEASE/spring-boot-2.0.2.RELEASE.jar!/org/springframework/boot/SpringApplicationExtensionsKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-end-line="15" />
+          <folding>
+            <element signature="e#29#270#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
