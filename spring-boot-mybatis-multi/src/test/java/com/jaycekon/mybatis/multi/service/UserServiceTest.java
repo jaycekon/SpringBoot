@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author huangweijie
+ * @author jaycekon
  * @date 2018/11/21
  */
 public class UserServiceTest extends SpringBootMybatisMultiApplicationTests {
