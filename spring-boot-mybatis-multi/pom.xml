@@ -48,6 +48,7 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.3.1</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
@@ -62,6 +63,12 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>5.0.9.RELEASE</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 

@@ -1,51 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="622b5fe6-e157-4ac4-b620-6608443c576c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_unknown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/spring-boot-mybatis-multi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/SpringBootMybatisMultiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseContextHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DruidDataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DynamicDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/springbootmybatismulti/SpringBootMybatisMultiApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="622b5fe6-e157-4ac4-b620-6608443c576c" name="Default" comment=":zap: Mybatis 多数据源">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/sql/school.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/sql/user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/mapper/SchoolMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/model/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/SchoolService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/SchoolMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/mybatis/multi/service/SchoolServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-consumer/src/test/java/com/jaycekon/demo/SpringBootConsumerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-consumer/src/test/java/com/jaycekon/mybatis/multi/SpringBootConsumerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/spring-boot-mybatis-multi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/spring-boot-mybatis-multi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/SpringBootMybatisMultiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/SpringBootMybatisMultiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DatabaseContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseType.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DatabaseType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DruidDataSourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DynamicDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DynamicDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/springbootmybatismulti/SpringBootMybatisMultiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/springbootmybatismulti/SpringBootMybatisMultiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web/SpringBootWeb开发.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web/SpringBootWeb开发.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/SpringBootWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/mybatis/multi/SpringBootWebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/controller/ReadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/mybatis/multi/controller/ReadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/dao/ReadRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/mybatis/multi/dao/ReadRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/mybatis/multi/domain/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/event/SpringEventListenerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/mybatis/multi/event/SpringEventListenerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-web/src/test/java/com/jaycekon/demo/SpringBootWebApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web/src/test/java/com/jaycekon/mybatis/multi/SpringBootWebApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -107,69 +104,108 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="gradle" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="8" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="46" />
+          <entry key="properties" value="6" />
+          <entry key="sql" value="4" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="Groovy" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="8" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="46" />
+          <entry key="Properties" value="6" />
+          <entry key="SQL" value="4" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="xml" value="4" />
+          <entry key="java" value="1069" />
+          <entry key="properties" value="53" />
+          <entry key="sql" value="2" />
+          <entry key="txt" value="13" />
+          <entry key="xml" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="1068" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Pointcut Expression" value="1" />
+          <entry key="Properties" value="53" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="157" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/build.gradle">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/mybatis/multi/service/SchoolServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="46" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="46" />
+            <state relative-caret-position="346">
+              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/pom.xml">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="879">
-              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            <state relative-caret-position="57">
+              <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/mapper/SchoolMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/SchoolMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DruidDataSourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DynamicDataSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+            <state relative-caret-position="95">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/SchoolService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,38 +214,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseContextHolder.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="137">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceAspect.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/spring-boot-mybatis-multi.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseType.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="-83">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -219,8 +251,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -248,6 +281,8 @@
       <find>nex</find>
       <find>mybati</find>
       <find>myb</find>
+      <find>lomnok</find>
+      <find>huangweijie</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -548,31 +583,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-consumer/src/main/java/com/jaycekon/dubbo/service/CityDubboConsumerService.java" />
-        <option value="$PROJECT_DIR$/spring-boot-dubbo/src/main/java/com/jaycekon/dubbo/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/spring-boot-dubbo/src/main/java/com/jaycekon/dubbo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-cloud/src/main/java/com/jaycekon/cloud/SpringBootCloudApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-cloud-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-cloud-providers/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-cloud/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-cloud-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-cloud-consumer/src/main/java/com/jaycekon/cloud/SpringBootCloudConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-cloud-provider/src/main/java/com/jaycekon/cloud/SpringBootCloudProviderApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/event/SpringEventListenerDemo.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/SpringBootWebApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/controller/ReadController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/model/User.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/MyMapper.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/mybatis-mappers/UserMapper.xml" />
-        <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.0.M7/6527d0d56f95c1747e42180f63f49bde988efb41/spring-boot-2.0.0.M7-sources.jar!/org/springframework/boot/context/properties/bind/Bindable.java" />
-        <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.0.M7/6527d0d56f95c1747e42180f63f49bde988efb41/spring-boot-2.0.0.M7-sources.jar!/org/springframework/boot/context/properties/bind/Binder.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DruidDataSource.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/SpringJDBCDataSource.java" />
-        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DruidDataSourceConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DataSourceConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DatabaseContextHolder.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DatabaseType.java" />
@@ -598,7 +608,32 @@
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/SpringBootApolloApplication.kt" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSource.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/StatisticsDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceAspect.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/model/User.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/mybatis/multi/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSource.java" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DynamicDataSource.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/mapper/SchoolMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/sql/school.sql" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/sql/user.sql" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/model/School.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mapper/SchoolMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/springbootmybatismulti/SpringBootMybatisMultiApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/SchoolService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DatabaseType.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DatabaseContextHolder.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceAspect.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/SchoolMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/model/User.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/mybatis/multi/service/SchoolServiceTest.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/UserService.java" />
       </list>
     </option>
   </component>
@@ -630,6 +665,15 @@
           <item name="spring-boot-apollo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-mybatis-multi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-mybatis-multi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -654,6 +698,201 @@
               <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jaycekon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jaycekon" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-mybatis-multi" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jaycekon" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -672,33 +911,42 @@
     <property name="SearchEverywhereHistoryKey" value="SpringApplication&#9;FILE&#9;jar://C:/Users/Administrator/.m2/org/springframework/boot/spring-boot/1.5.7.RELEASE/spring-boot-1.5.7.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java&#10;EventPublishingRun&#9;PSI&#9;JAVA://org.springframework.boot.context.event.EventPublishingRunListener&#10;SpringApplicationRun&#9;PSI&#9;JAVA://org.springframework.boot.SpringApplicationRunListener&#10;Confi&#9;FILE&#9;jar://C:/Users/Administrator/.m2/org/springframework/spring-context/4.3.11.RELEASE/spring-context-4.3.11.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java&#10;ApplicationEventPubli&#9;PSI&#9;JAVA://org.springframework.context.ApplicationEventPublisher&#10;ApplicationList&#9;PSI&#9;JAVA://org.springframework.context.ApplicationListener&#10;Spring&#9;FILE&#9;file://E:/Github/SpringBoot/spring-boot-web/src/main/java/com/jaycekon/demo/event/SpringEventListenerDemo.java&#10;AnnotationConfig&#9;PSI&#9;JAVA://org.springframework.context.annotation.AnnotationConfigApplicationContext&#10;COnfigurableAppli&#9;PSI&#9;JAVA://org.springframework.context.ConfigurableApplicationContext&#10;Configra&#9;PSI&#9;JAVA://org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration&#10;SpringEv&#9;FILE&#9;file://E:/Github/SpringBoot/spring-boot-web/src/main/java/com/jaycekon/demo/event/SpringEventListenerDemo.java&#10;ApplicationEvent&#9;PSI&#9;JAVA://org.springframework.context.ApplicationEvent&#10;EventObject&#9;PSI&#9;JAVA://java.util.EventObject&#10;SpringCLoudApplication&#9;FILE&#9;jar://C:/Users/Administrator/.m2/org/springframework/cloud/spring-cloud-commons/1.2.3.RELEASE/spring-cloud-commons-1.2.3.RELEASE.jar!/org/springframework/cloud/client/SpringCloudApplication.class&#10;SpringClouApplication&#9;RUN_CONFIGURATION&#9;SpringBootCloudApplication&#10;ProfileCondi&#9;PSI&#9;JAVA://org.springframework.context.annotation.ProfileCondition" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542782861902" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542786672233" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jaycekon.mybatis.multi.service" />
+    </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.jaycekon.apollo.controller" />
       <recent name="com.jaycekon.apollo.config" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo" />
-      <recent name="E:\Github\SpringBoot\spring-boot-mybatis\src\main\resources" />
-      <recent name="E:\Github\SpringBoot\spring-boot-mybatis\src\main\java\com\jaycekon\demo\model" />
-      <recent name="E:\Github\SpringBoot\spring-boot-web\src\main\webapp\WEB-INF\jsp" />
-      <recent name="$PROJECT_DIR$/spring-boot-cloud-provider/src/main/java/com/jaycekon/cloud" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\SpringBoot\spring-boot-web\src\main\webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jaycekon.mybatis.multi.mapper" />
       <recent name="com.jaycekon.demo.config" />
       <recent name="com.jaycekon.demo" />
       <recent name="com.jaycekon.demo.mapper" />
       <recent name="com.jaycekon.dubbo.domain" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Github\SpringBoot\spring-boot-web\src\main\webapp" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test" />
+      <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mapper" />
+      <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/sql" />
+      <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config" />
+      <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -718,24 +966,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.jaycekon.apollo.SpringBootApolloApplicationKt">
+  <component name="RunManager" selected="JUnit.SchoolServiceTest.addSchool">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringEventListenerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jaycekon.demo.event.SpringEventListenerDemo" />
-      <module name="spring-boot-web" />
-      <option name="PROGRAM_PARAMETERS" value="--server.port=9090" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jaycekon.demo.event.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -746,17 +979,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DubboTest.pors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-consumer" />
+    <configuration name="SchoolServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-mybatis-multi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jaycekon.demo.*" />
+          <option name="PATTERN" value="com.jaycekon.mybatis.multi.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jaycekon.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.jaycekon.demo.DubboTest" />
-      <option name="METHOD_NAME" value="pors" />
+      <option name="PACKAGE_NAME" value="com.jaycekon.mybatis.multi.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jaycekon.mybatis.multi.service.SchoolServiceTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolServiceTest.addSchool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-mybatis-multi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jaycekon.mybatis.multi.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jaycekon.mybatis.multi.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jaycekon.mybatis.multi.service.SchoolServiceTest" />
+      <option name="METHOD_NAME" value="addSchool" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -876,9 +1124,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBootMybatisMultiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mybatis-multi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jaycekon.mybatis.multi.SpringBootMybatisMultiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootMybatisMultiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-mybatis-multi" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jaycekon.springbootmybatismulti.SpringBootMybatisMultiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootWebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jaycekon.mybatis.multi.SpringBootWebApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -909,20 +1171,22 @@
       <item itemvalue="Spring Boot.SpringBootCloudConsumerApplication" />
       <item itemvalue="Spring Boot.SpringBootMybatisApplication" />
       <item itemvalue="Spring Boot.SpringBootApolloApplication" />
-      <item itemvalue="Application.SpringEventListenerDemo" />
-      <item itemvalue="JUnit.DubboTest.pors" />
       <item itemvalue="JUnit.UserMapperTest.testSelect" />
       <item itemvalue="Kotlin.com.jaycekon.apollo.SpringBootApolloApplicationKt" />
       <item itemvalue="JUnit.UserMapperTest" />
       <item itemvalue="Spring Boot.SpringBootMybatisMultiApplication" />
+      <item itemvalue="Spring Boot.SpringBootMybatisMultiApplication (1)" />
+      <item itemvalue="Spring Boot.SpringBootWebApplication (1)" />
+      <item itemvalue="JUnit.SchoolServiceTest.addSchool" />
+      <item itemvalue="JUnit.SchoolServiceTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SchoolServiceTest.addSchool" />
+        <item itemvalue="JUnit.SchoolServiceTest" />
         <item itemvalue="Kotlin.com.jaycekon.apollo.SpringBootApolloApplicationKt" />
         <item itemvalue="JUnit.UserMapperTest" />
         <item itemvalue="JUnit.UserMapperTest.testSelect" />
-        <item itemvalue="Application.SpringEventListenerDemo" />
-        <item itemvalue="JUnit.DubboTest.pors" />
       </list>
     </recent_temporary>
   </component>
@@ -957,7 +1221,7 @@
       <workItem from="1531534368788" duration="1300000" />
       <workItem from="1531536981673" duration="2229000" />
       <workItem from="1531708540786" duration="6471000" />
-      <workItem from="1542782126720" duration="719000" />
+      <workItem from="1542782126720" duration="4236000" />
     </task>
     <task id="LOCAL-00001" summary="整合代码">
       <created>1505912048300</created>
@@ -1071,31 +1335,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531711699563</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=":zap: Mybatis 多数据源">
+      <created>1542782883815</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542782883815</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserMapperTest_testSelect - 2018.01.19 at 15h 32m 47s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserMapperTest_testSelect - 2018.07.16 at 10h 53m 42s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserMapperTest_testSelect - 2018.07.16 at 10h 54m 40s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserMapperTest_testSelect - 2018.07.16 at 10h 56m 22s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserMapperTest_testSelect - 2018.07.16 at 11h 04m 17s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserMapperTest_testSelect - 2018.07.16 at 11h 04m 26s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserMapperTest_testSelect - 2018.07.16 at 11h 04m 51s.xml">
-      <configuration name="UserMapperTest.testSelect" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserMapperTest - 2018.07.16 at 11h 16m 29s.xml">
       <configuration name="UserMapperTest" configurationId="JUnit" />
     </history-entry>
@@ -1105,14 +1355,36 @@
     <history-entry file="UserMapperTest - 2018.07.16 at 11h 23m 38s.xml">
       <configuration name="UserMapperTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SchoolServiceTest_addSchool - 2018.11.21 at 15h 39m 39s.xml">
+      <configuration name="SchoolServiceTest.addSchool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SchoolServiceTest_addSchool - 2018.11.21 at 15h 41m 05s.xml">
+      <configuration name="SchoolServiceTest.addSchool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SchoolServiceTest - 2018.11.21 at 15h 43m 18s.xml">
+      <configuration name="SchoolServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SchoolServiceTest - 2018.11.21 at 15h 44m 20s.xml">
+      <configuration name="SchoolServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SchoolServiceTest_addSchool - 2018.11.21 at 15h 45m 20s.xml">
+      <configuration name="SchoolServiceTest.addSchool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SchoolServiceTest_addSchool - 2018.11.21 at 15h 46m 29s.xml">
+      <configuration name="SchoolServiceTest.addSchool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SchoolServiceTest_addSchool - 2018.11.21 at 15h 47m 19s.xml">
+      <configuration name="SchoolServiceTest.addSchool" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47563000" />
+    <option name="totallyTimeSpent" value="51080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33547926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -1124,14 +1396,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32861805" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.32861805" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49427754" weight="0.5878848" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49427754" visible="true" weight="0.43493977" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3297062" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4968051" weight="0.32969216" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4968051" weight="0.32871288" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50319487" side_tool="true" weight="0.32969216" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32770607" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32650602" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32889965" />
       <window_info anchor="bottom" id="Build" order="13" />
@@ -1139,14 +1411,14 @@
       <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" />
       <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
-      <window_info anchor="bottom" content_ui="combo" id="Run Dashboard" order="18" weight="0.44786495" />
+      <window_info anchor="bottom" content_ui="combo" id="Run Dashboard" order="18" weight="0.44698796" />
       <window_info anchor="bottom" id="Problems" order="19" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3290735" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32904148" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -1171,24 +1443,25 @@
     <MESSAGE value=":fire: spring-boot 给予Kotlin 整合Apollo" />
     <MESSAGE value="修改maven mysql版本依赖" />
     <MESSAGE value=":zap: fix Spring config" />
-    <option name="LAST_COMMIT_MESSAGE" value=":zap: fix Spring config" />
+    <MESSAGE value=":zap: Mybatis 多数据源" />
+    <option name="LAST_COMMIT_MESSAGE" value=":zap: Mybatis 多数据源" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/SpringBootWebApplication.java</url>
+          <url>file://$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/mybatis/multi/SpringBootWebApplication.java</url>
           <line>11</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/mapper/UserMapperTest.java</url>
+          <url>file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/mybatis/multi/mapper/UserMapperTest.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/SpringJDBCDataSource.java</url>
+          <url>file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/mybatis/multi/config/SpringJDBCDataSource.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="6" />
@@ -1197,166 +1470,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/MyMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud-provider/src/main/java/com/jaycekon/cloud/SpringBootCloudProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud-consumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud/src/main/java/com/jaycekon/cloud/SpringBootCloudApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud-provider/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud-consumer/src/main/java/com/jaycekon/cloud/controller/DcController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud-consumer/src/main/java/com/jaycekon/cloud/SpringBootCloudConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web/SpringBootWeb开发.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="6006">
-            <caret line="286" selection-start-line="286" selection-end-line="286" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-dubbo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cloud-provider/src/main/java/com/jaycekon/cloud/controller/DcController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.6.RELEASE/spring-context-5.0.6.RELEASE.jar!/org/springframework/context/annotation/PropertySource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/controller/DemoController.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/service/AuthorServiceImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/controller/AuthorController.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web/src/main/java/com/jaycekon/demo/dao/ReadRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin/com/jaycekon/apollo/config/BeanConfig.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/model/BaseEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.2.RELEASE/791175a228ad202bb8862203c1a9296dca0a93dd/spring-jdbc-5.0.2.RELEASE-sources.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="201" selection-start-line="201" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/config/DataSourceAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/SpringBootMybatisApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/model/User.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/mybatis/multi/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -1370,7 +1484,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/demo/mapper/UserMapperTest.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/jaycekon/mybatis/multi/mapper/UserMapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
@@ -1392,24 +1506,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/demo/SpringBootMybatisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-apollo/src/main/resources/META_INF/app.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1458,13 +1558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/SpringBootMybatisMultiApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="683">
@@ -1479,24 +1572,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DruidDataSourceConfig.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DruidDataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DynamicDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/SpringJDBCDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1505,34 +1582,233 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/spring-boot-mybatis-multi.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceContextHolder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/TeachingDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/StatisticsDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/mybatis/multi/SpringBootMybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/jaycekon/mybatis/multi/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="879">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="441">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DataSourceAspect.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config/DatabaseContextHolder.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DynamicDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/sql/school.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/sql/user.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/model/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.2.RELEASE/spring-beans-5.1.2.RELEASE.jar!/org/springframework/beans/factory/xml/NamespaceHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/config/NamespaceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DatabaseType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DatabaseContextHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/resources/mybatis-mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/SpringBootMybatisMultiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/springbootmybatismulti/SpringBootMybatisMultiApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/SchoolMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/mapper/SchoolMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/resources/mybatis-mappers/SchoolMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/target/test-classes/mybatis-mappers/SchoolMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/SchoolService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/mybatis/multi/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/mybatis/multi/service/SchoolServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1588,7 +1864,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-boot-web</last-edited>
+          <last-edited>spring-boot-mybatis-multi</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

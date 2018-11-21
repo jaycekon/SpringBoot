@@ -212,7 +212,7 @@ public class Book {
 的方法。JpaRepository是个泛型接口，有两个参数：仓库操作的领域对象类型，及其ID属性的
 类型。此外，我还增加了一个findByReader()方法，可以根据读者的用户名来查找阅读列表。
 ```
-import com.jaycekon.demo.domain.Book;
+import Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
@@ -230,8 +230,8 @@ public interface ReadRepository extends JpaRepository<Book,Long> {
 在定义好了应用程序的实体类，持久化接口后。我们还需要创建一个MVC 控制器来处理HTTP请求。
 
 ```
-import com.jaycekon.demo.dao.ReadRepository;
-import com.jaycekon.demo.domain.Book;
+import ReadRepository;
+import Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
