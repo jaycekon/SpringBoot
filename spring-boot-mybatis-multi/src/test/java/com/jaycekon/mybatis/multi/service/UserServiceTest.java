@@ -4,20 +4,19 @@ import com.jaycekon.springbootmybatismulti.SpringBootMybatisMultiApplicationTest
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import static org.junit.Assert.*;
-
 /**
- * @author jaycekon
+ * @author huangweijie
  * @date 2018/11/21
  */
-public class SchoolServiceTest extends SpringBootMybatisMultiApplicationTests {
+public class UserServiceTest extends SpringBootMybatisMultiApplicationTests {
+
 
     @Autowired
-    private SchoolService schoolService;
-
+    private UserService userService;
 
     @Test
     public void addSchool() {
-        schoolService.addSchool("ceshi1", "ceshi1");
+
+        userService.inserUser("root2","root2");
     }
 }
