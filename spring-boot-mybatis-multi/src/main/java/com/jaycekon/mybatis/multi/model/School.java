@@ -3,7 +3,7 @@ package com.jaycekon.mybatis.multi.model;
 import lombok.Data;
 
 /**
- * @author huangweijie
+ * @author jaycekon
  * @date 2018/11/21
  */
 @Data

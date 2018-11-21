@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import static org.junit.Assert.*;
 
 /**
- * @author huangweijie
+ * @author jaycekon
  * @date 2018/11/21
  */
 public class SchoolServiceTest extends SpringBootMybatisMultiApplicationTests {
