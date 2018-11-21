@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spring-boot-cloud-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-cloud-provider/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-apollo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-multi/pom.xml" />
       </list>
     </option>
   </component>
