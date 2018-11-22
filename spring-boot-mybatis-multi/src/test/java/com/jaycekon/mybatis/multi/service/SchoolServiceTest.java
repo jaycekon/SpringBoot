@@ -1,5 +1,6 @@
 package com.jaycekon.mybatis.multi.service;
 
+import com.jaycekon.mybatis.multi.model.School;
 import com.jaycekon.springbootmybatismulti.SpringBootMybatisMultiApplicationTests;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,9 +16,18 @@ public class SchoolServiceTest extends SpringBootMybatisMultiApplicationTests {
     @Autowired
     private SchoolService schoolService;
 
+    @Autowired
+    private UserService userService;
 
     @Test
-    public void addSchool() {
-        schoolService.addSchool("ceshi1", "ceshi1");
+    public void addUser() {
+        userService.inserUser("root33", "root33");
     }
+
+//    @Test
+//    public void addSchool() {
+//        schoolService.addSchool("ceshi11", "ceshi11");
+//    }
+
+
 }

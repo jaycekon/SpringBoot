@@ -32,7 +32,7 @@ public class DataSourceAspect {
         try {
             Method method = className.getMethod(methodName, argClass);
             // 判断是否存在@DS注解
-            if (className.isAnnotationPresent(DataSource.class)) {
+            if (method.isAnnotationPresent(DataSource.class)) {
                 DataSource annotation = method.getAnnotation(DataSource.class);
                 // 取出注解中的数据源名
                 dataSource = DatabaseType.valueOf(annotation.value());

@@ -1,4 +1,4 @@
-package com.jaycekon.mybatis.multi.mapper;
+package com.jaycekon.mybatis.multi.mapper.db1;
 
 import com.jaycekon.mybatis.multi.model.School;
 
@@ -9,4 +9,6 @@ import com.jaycekon.mybatis.multi.model.School;
 public interface SchoolMapper {
 
     void insert(School school);
+
+    School select(int id);
 }

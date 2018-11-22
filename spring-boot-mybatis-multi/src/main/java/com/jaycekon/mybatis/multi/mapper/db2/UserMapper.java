@@ -1,4 +1,4 @@
-package com.jaycekon.mybatis.multi.mapper;
+package com.jaycekon.mybatis.multi.mapper.db2;
 
 import com.jaycekon.mybatis.multi.model.User;
 
@@ -8,5 +8,7 @@ import com.jaycekon.mybatis.multi.model.User;
  */
 public interface UserMapper {
 
-     void insert(User user);
+    void insert(User user);
+
+    User select(int id);
 }

@@ -9,7 +9,7 @@ import java.lang.annotation.Target;
  * @author
  * @date 2018/11/15
  */
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.CLASS)
 @Target({ElementType.TYPE})
 public @interface DataSource {
     String value() default "test_1";

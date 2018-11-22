@@ -19,6 +19,7 @@
     </parent>
 
     <properties>
+        <maven.test.skip>true</maven.test.skip>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
@@ -27,7 +28,7 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
         <dependency>
@@ -73,6 +74,7 @@
     </dependencies>
 
     <build>
+        <finalName>spring-boot-mybatis-multi</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
