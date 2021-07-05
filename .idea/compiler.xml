@@ -2,23 +2,26 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-apollo" />
-        <module name="spring-boot-cloud" />
-        <module name="spring-boot-cloud-consumer" />
-        <module name="spring-boot-cloud-provider" />
-        <module name="spring-boot-consumer" />
-        <module name="spring-boot-dubbo" />
-        <module name="spring-boot-mybatis-multi" />
-        <module name="spring-boot-web" />
         <module name="SpringBoot" />
-        <module name="Springboot" />
+        <module name="spring-boot-sentinel" />
+        <module name="spring-boot-consumer" />
+        <module name="spring-boot-cloud-provider" />
+        <module name="spring-boot-apollo" />
+        <module name="spring-boot-cloud-consumer" />
+        <module name="spring-boot-cloud" />
+        <module name="spring-boot-sentinel-ahas" />
+        <module name="spring-boot-web" />
+        <module name="spring-boot-mybatis-multi" />
+        <module name="spring-boot-dubbo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.jaycekon-spring-boot-mybatis" target="1.8" />
       <module name="spring-boot-apollo" target="1.8" />
       <module name="spring-boot-cloud" target="1.8" />
       <module name="spring-boot-cloud-consumer" target="1.8" />
@@ -29,6 +32,8 @@
       <module name="spring-boot-mybatis-multi" target="1.8" />
       <module name="spring-boot-mybatis_main" target="1.8" />
       <module name="spring-boot-mybatis_test" target="1.8" />
+      <module name="spring-boot-sentinel" target="1.8" />
+      <module name="spring-boot-sentinel-ahas" target="1.8" />
       <module name="spring-boot-web" target="1.8" />
       <module name="SpringBoot" target="1.5" />
       <module name="Springboot" target="1.5" />
@@ -38,6 +43,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-apollo" options="-parameters" />
       <module name="spring-boot-mybatis-multi" options="-parameters" />
+      <module name="spring-boot-sentinel" options="-parameters" />
+      <module name="spring-boot-sentinel-ahas" options="-parameters" />
     </option>
   </component>
 </project>

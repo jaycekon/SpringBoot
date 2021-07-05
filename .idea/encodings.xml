@@ -2,12 +2,22 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-boot-apollo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-apollo/src/main/kotlin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-cloud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-cloud-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-cloud-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-dubbo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-mybatis-multi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-sentinel-ahas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-sentinel/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web/src/main/java" charset="UTF-8" />
   </component>
 </project>
