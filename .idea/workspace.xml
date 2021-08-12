@@ -20,100 +20,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="622b5fe6-e157-4ac4-b620-6608443c576c" name="Default" comment=":zap: Mybatis 多数据源">
-      <change afterPath="$PROJECT_DIR$/.idea/ConfPoetryConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_ahas_sentinel_client_1_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_core_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_datasource_extension_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_transport_common_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_transport_simple_http_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_web_servlet_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_75.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.jaycekon-spring-boot-mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel-ahas/src/main/java/com/jaycekon/sentinel/ahas/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/src/main/java/com/jaycekon/sentinel/SpringBootSentinelApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/src/main/java/com/jaycekon/sentinel/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/src/main/java/com/jaycekon/sentinel/demo/FlowRuleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-sentinel/src/test/java/com/jaycekon/sentinel/SpringBootSentinelApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_50.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_50.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_50.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-event/src/main/java/com/jaycekon/event/listener/DrinkEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-event/src/main/java/com/jaycekon/event/listener/WaterEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-event/src/main/java/com/jaycekon/event/model/WaterEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-event/src/main/java/com/jaycekon/event/publisher/WaterEventPublisherAware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ConfPoetryConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ConfPoetryConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spring-boot-mybatis_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-mybatis-multi/spring-boot-mybatis-multi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-mybatis-multi/spring-boot-mybatis-multi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,18 +164,18 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-sentinel" />
       <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/test" />
       <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mapper" />
       <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/sql" />
       <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo/config" />
-      <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/java/com/jaycekon/demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jaycekon.event.listener" />
       <recent name="com.jaycekon.sentinel.ahas" />
       <recent name="com.jaycekon.mybatis.multi.config" />
       <recent name="com.jaycekon.mybatis.multi.mapper" />
       <recent name="com.jaycekon.demo.config" />
-      <recent name="com.jaycekon.demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring-boot-mybatis-multi/src/main/resources/mybatis-mappers/db2" />
@@ -242,9 +190,23 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootSentinelApplication">
+  <component name="RunManager" selected="Spring Boot.EventApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jaycekon.event.EventApplication" />
+      <module name="spring-boot-event" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jaycekon.event.listener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -316,23 +278,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.selectUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-mybatis-multi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jaycekon.mybatis.multi.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jaycekon.mybatis.multi.service" />
-      <option name="MAIN_CLASS_NAME" value="com.jaycekon.mybatis.multi.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="selectUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -356,6 +301,13 @@
     <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-consumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jaycekon.dubbo.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-event" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jaycekon.event.EventApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -461,8 +413,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.FlowRuleDemo" />
+      <item itemvalue="Application.SpringBootSentinelApplication" />
       <item itemvalue="JUnit.SchoolServiceTest" />
-      <item itemvalue="JUnit.UserServiceTest.selectUser" />
       <item itemvalue="JUnit.SchoolServiceTest.addUser" />
       <item itemvalue="Spring Boot.SpringBootCloudApplication" />
       <item itemvalue="Spring Boot.ServerApplication" />
@@ -477,15 +429,16 @@
       <item itemvalue="Spring Boot.SpringBootSentinelApplication" />
       <item itemvalue="Spring Boot.SentinelAhasApplication" />
       <item itemvalue="Spring Boot.Sentinel-Ahas" />
-      <item itemvalue="Application.SpringBootSentinelApplication" />
+      <item itemvalue="Spring Boot.EventApplication" />
+      <item itemvalue="Application.EventApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EventApplication" />
         <item itemvalue="Application.SpringBootSentinelApplication" />
         <item itemvalue="Application.FlowRuleDemo" />
         <item itemvalue="JUnit.SchoolServiceTest.addUser" />
         <item itemvalue="JUnit.SchoolServiceTest" />
-        <item itemvalue="JUnit.UserServiceTest.selectUser" />
       </list>
     </recent_temporary>
   </component>
@@ -522,7 +475,8 @@
       <workItem from="1531708540786" duration="6471000" />
       <workItem from="1542782126720" duration="20411000" />
       <workItem from="1625138259113" duration="10588000" />
-      <workItem from="1625487024157" duration="3157000" />
+      <workItem from="1625487024157" duration="3742000" />
+      <workItem from="1628767270574" duration="8537000" />
     </task>
     <task id="LOCAL-00001" summary="整合代码">
       <created>1505912048300</created>
@@ -671,7 +625,28 @@
       <option name="project" value="LOCAL" />
       <updated>1542787307534</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Alibaba Sentinel 实践">
+      <created>1625506034231</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1625506034231</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Alibaba Sentinel 实践">
+      <created>1625506121482</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1625506121482</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Alibaba Sentinel 实践">
+      <created>1625506162275</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1625506162275</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -733,7 +708,8 @@
     <MESSAGE value="修改maven mysql版本依赖" />
     <MESSAGE value=":zap: fix Spring config" />
     <MESSAGE value=":zap: Mybatis 多数据源" />
-    <option name="LAST_COMMIT_MESSAGE" value=":zap: Mybatis 多数据源" />
+    <MESSAGE value="Alibaba Sentinel 实践" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alibaba Sentinel 实践" />
   </component>
   <component name="WindowStateProjectService">
     <state x="384" y="141" key="#Project_Structure" timestamp="1625298128589">
@@ -746,106 +722,120 @@
     <state x="360" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1625423397690" />
     <state x="514" y="284" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625487852384" />
     <state x="386" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625501738167" />
-    <state width="1294" height="561" key="GridCell.Tab.0.bottom" timestamp="1625502070877">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="1093" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1628770171526">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1093" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628770171526" />
+    <state x="1018" y="474" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628769013197">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1018" y="474" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628769013197" />
+    <state width="2015" height="531" key="GridCell.Tab.0.bottom" timestamp="1628777343709">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957642" />
-    <state width="1742" height="705" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104299" />
+    <state width="2015" height="531" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343709" />
     <state width="1204" height="412" key="GridCell.Tab.0.bottom/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146628" />
     <state width="1742" height="705" key="GridCell.Tab.0.bottom/0.23.2560.1339/2560.63.1792.1097@0.23.2560.1339" timestamp="1625488000828" />
-    <state width="1294" height="561" key="GridCell.Tab.0.bottom/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070877" />
-    <state width="1294" height="561" key="GridCell.Tab.0.center" timestamp="1625502070874">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.0.bottom/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035561" />
+    <state width="2015" height="531" key="GridCell.Tab.0.center" timestamp="1628777343706">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957633" />
-    <state width="1742" height="705" key="GridCell.Tab.0.center/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104285" />
+    <state width="2015" height="531" key="GridCell.Tab.0.center/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343706" />
     <state width="1204" height="412" key="GridCell.Tab.0.center/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146625" />
     <state width="1742" height="705" key="GridCell.Tab.0.center/0.23.2560.1339/2560.63.1792.1097@0.23.2560.1339" timestamp="1625488000821" />
-    <state width="1294" height="561" key="GridCell.Tab.0.center/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070874" />
-    <state width="1294" height="561" key="GridCell.Tab.0.left" timestamp="1625502070873">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.0.center/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035554" />
+    <state width="2015" height="531" key="GridCell.Tab.0.left" timestamp="1628777343703">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957631" />
-    <state width="1742" height="705" key="GridCell.Tab.0.left/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104277" />
+    <state width="2015" height="531" key="GridCell.Tab.0.left/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343703" />
     <state width="1204" height="412" key="GridCell.Tab.0.left/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146623" />
     <state width="1742" height="705" key="GridCell.Tab.0.left/0.23.2560.1339/2560.63.1792.1097@0.23.2560.1339" timestamp="1625488000820" />
-    <state width="1294" height="561" key="GridCell.Tab.0.left/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070873" />
-    <state width="1294" height="561" key="GridCell.Tab.0.right" timestamp="1625502070876">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.0.left/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035549" />
+    <state width="2015" height="531" key="GridCell.Tab.0.right" timestamp="1628777343707">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957634" />
-    <state width="1742" height="705" key="GridCell.Tab.0.right/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104292" />
+    <state width="2015" height="531" key="GridCell.Tab.0.right/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343707" />
     <state width="1204" height="412" key="GridCell.Tab.0.right/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146627" />
     <state width="1742" height="705" key="GridCell.Tab.0.right/0.23.2560.1339/2560.63.1792.1097@0.23.2560.1339" timestamp="1625488000826" />
-    <state width="1294" height="561" key="GridCell.Tab.0.right/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070876" />
-    <state width="1294" height="561" key="GridCell.Tab.1.bottom" timestamp="1625502070883">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.0.right/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035557" />
+    <state width="2015" height="531" key="GridCell.Tab.1.bottom" timestamp="1628777343716">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957647" />
-    <state width="1742" height="705" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104333" />
+    <state width="2015" height="531" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343716" />
     <state width="1204" height="412" key="GridCell.Tab.1.bottom/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146633" />
-    <state width="1294" height="561" key="GridCell.Tab.1.bottom/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070883" />
-    <state width="1294" height="561" key="GridCell.Tab.1.center" timestamp="1625502070880">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.1.bottom/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035573" />
+    <state width="2015" height="531" key="GridCell.Tab.1.center" timestamp="1628777343713">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957644" />
-    <state width="1742" height="705" key="GridCell.Tab.1.center/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104315" />
+    <state width="2015" height="531" key="GridCell.Tab.1.center/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343713" />
     <state width="1204" height="412" key="GridCell.Tab.1.center/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146631" />
-    <state width="1294" height="561" key="GridCell.Tab.1.center/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070880" />
-    <state width="1294" height="561" key="GridCell.Tab.1.left" timestamp="1625502070879">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.1.center/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035567" />
+    <state width="2015" height="531" key="GridCell.Tab.1.left" timestamp="1628777343711">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957643" />
-    <state width="1742" height="705" key="GridCell.Tab.1.left/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104307" />
+    <state width="2015" height="531" key="GridCell.Tab.1.left/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343711" />
     <state width="1204" height="412" key="GridCell.Tab.1.left/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146629" />
-    <state width="1294" height="561" key="GridCell.Tab.1.left/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070879" />
-    <state width="1294" height="561" key="GridCell.Tab.1.right" timestamp="1625502070881">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.1.left/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035564" />
+    <state width="2015" height="531" key="GridCell.Tab.1.right" timestamp="1628777343715">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957645" />
-    <state width="1742" height="705" key="GridCell.Tab.1.right/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104321" />
+    <state width="2015" height="531" key="GridCell.Tab.1.right/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343715" />
     <state width="1204" height="412" key="GridCell.Tab.1.right/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146632" />
-    <state width="1294" height="561" key="GridCell.Tab.1.right/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625502070881" />
-    <state width="1294" height="561" key="GridCell.Tab.2.bottom" timestamp="1625501891262">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1294" height="561" key="GridCell.Tab.1.right/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625506035570" />
+    <state width="2015" height="531" key="GridCell.Tab.2.bottom" timestamp="1628777343723">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957652" />
-    <state width="1742" height="705" key="GridCell.Tab.2.bottom/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104340" />
+    <state width="2015" height="531" key="GridCell.Tab.2.bottom/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343723" />
     <state width="1204" height="412" key="GridCell.Tab.2.bottom/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146639" />
     <state width="1294" height="561" key="GridCell.Tab.2.bottom/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625501891262" />
-    <state width="1294" height="561" key="GridCell.Tab.2.center" timestamp="1625501891259">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2015" height="531" key="GridCell.Tab.2.center" timestamp="1628777343720">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957649" />
-    <state width="1742" height="705" key="GridCell.Tab.2.center/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104336" />
+    <state width="2015" height="531" key="GridCell.Tab.2.center/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343720" />
     <state width="1204" height="412" key="GridCell.Tab.2.center/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146635" />
     <state width="1294" height="561" key="GridCell.Tab.2.center/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625501891259" />
-    <state width="1294" height="561" key="GridCell.Tab.2.left" timestamp="1625501891257">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2015" height="531" key="GridCell.Tab.2.left" timestamp="1628777343718">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957648" />
-    <state width="1742" height="705" key="GridCell.Tab.2.left/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104335" />
+    <state width="2015" height="531" key="GridCell.Tab.2.left/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343718" />
     <state width="1204" height="412" key="GridCell.Tab.2.left/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146634" />
     <state width="1294" height="561" key="GridCell.Tab.2.left/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625501891257" />
-    <state width="1294" height="561" key="GridCell.Tab.2.right" timestamp="1625501891261">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2015" height="531" key="GridCell.Tab.2.right" timestamp="1628777343721">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1204" height="412" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625423957650" />
-    <state width="1742" height="705" key="GridCell.Tab.2.right/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625488104338" />
+    <state width="2015" height="531" key="GridCell.Tab.2.right/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777343721" />
     <state width="1204" height="412" key="GridCell.Tab.2.right/0.23.1792.1019@0.23.1792.1019" timestamp="1625424146637" />
     <state width="1294" height="561" key="GridCell.Tab.2.right/1920.89.1792.1120/0.0.1920.1080@0.0.1920.1080" timestamp="1625501891261" />
     <state x="951" y="429" key="RollbackChangesDialog" timestamp="1625487969695">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="951" y="429" key="RollbackChangesDialog/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1625487969695" />
-    <state x="264" y="223" key="new project wizard" timestamp="1625322869044">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="1010" y="470" width="540" height="524" key="StructurePopup" timestamp="1628777177156">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1010" y="470" width="540" height="524" key="StructurePopup/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777177156" />
+    <state x="619" y="534" key="new project wizard" timestamp="1628768080254">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="264" y="223" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1625322869044" />
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1625417154099">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="619" y="534" key="new project wizard/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628768080254" />
+    <state x="801" y="323" width="958" height="870" key="search.everywhere.popup" timestamp="1628777960528">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1625417154099" />
+    <state x="801" y="323" width="958" height="870" key="search.everywhere.popup/0.0.2560.1440/2560.40.1792.1120@0.0.2560.1440" timestamp="1628777960528" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -873,6 +863,39 @@
           <url>file://$PROJECT_DIR$/spring-boot-mybatis-multi/src/test/java/com/jaycekon/mybatis/multi/service/UserServiceTest.java</url>
           <line>26</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.9/spring-context-5.3.9-sources.jar!/org/springframework/context/ApplicationEventPublisher.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-event/src/main/java/com/jaycekon/event/EventApplication.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-event/src/main/java/com/jaycekon/event/publisher/WaterEventPublisherAware.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.9/spring-context-5.3.9-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>813</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.9/spring-context-5.3.9-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>803</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.9/spring-context-5.3.9-sources.jar!/org/springframework/context/event/SimpleApplicationEventMulticaster.java</url>
+          <line>139</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

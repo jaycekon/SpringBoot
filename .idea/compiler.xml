@@ -8,16 +8,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringBoot" />
-        <module name="spring-boot-sentinel" />
+        <module name="spring-boot-mybatis-multi" />
         <module name="spring-boot-consumer" />
         <module name="spring-boot-cloud-provider" />
-        <module name="spring-boot-apollo" />
         <module name="spring-boot-cloud-consumer" />
-        <module name="spring-boot-cloud" />
+        <module name="spring-boot-apollo" />
         <module name="spring-boot-sentinel-ahas" />
         <module name="spring-boot-web" />
-        <module name="spring-boot-mybatis-multi" />
+        <module name="spring-boot-event" />
         <module name="spring-boot-dubbo" />
+        <module name="spring-boot-sentinel" />
+        <module name="spring-boot-cloud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +30,7 @@
       <module name="spring-boot-cloud-providers" target="1.8" />
       <module name="spring-boot-consumer" target="1.8" />
       <module name="spring-boot-dubbo" target="1.8" />
+      <module name="spring-boot-event" target="1.8" />
       <module name="spring-boot-mybatis-multi" target="1.8" />
       <module name="spring-boot-mybatis_main" target="1.8" />
       <module name="spring-boot-mybatis_test" target="1.8" />
@@ -42,6 +44,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-apollo" options="-parameters" />
+      <module name="spring-boot-event" options="-parameters" />
       <module name="spring-boot-mybatis-multi" options="-parameters" />
       <module name="spring-boot-sentinel" options="-parameters" />
       <module name="spring-boot-sentinel-ahas" options="-parameters" />
